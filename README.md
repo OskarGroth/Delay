@@ -4,9 +4,9 @@ As soon as MTLDeviceNotificationName is used anywhere in an Xcode project (even 
 
 This sample project exhibits the problem, which has been verified by external developers.
 
-Open the attached sample project.
-Try running the project. The task will complete quickly, as expected.
-Comment back line #33
-Try running the project. The task will take 3+ seconds to complete.
+- Open the attached sample project.
+- Try running the project. The task will complete quickly, as expected.
+- Comment back line #33
+- Try running the project. The task will take 3+ seconds to complete.
 
 macOS 10.15.4 / Xcode 11.5
